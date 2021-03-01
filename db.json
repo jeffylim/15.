@@ -1,0 +1,25 @@
+{
+  "workers": [
+    {
+      "name": "dsa",
+      "surname": "asd",
+      "phone": "+7 (123) 123-12-31",
+      "type": 3,
+      "id": 1
+    },
+    {
+      "name": "dsa",
+      "surname": "asd",
+      "phone": "+7 (123) 123-12-31",
+      "type": 1,
+      "id": 3
+    },
+    {
+      "name": "dsa",
+      "surname": "asd",
+      "phone": "+7 (123) 123-12-31",
+      "type": 2,
+      "id": 4
+    }
+  ]
+}
